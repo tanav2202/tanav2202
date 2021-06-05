@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tanav Singh Bajaj</h1>
 <h3 align="center">Student at IIIT Bhopal with a love for tech</h3>
 
-- 💬 Ask me about **anything**
+- 
+- 🔭 I’m currently working to be Full Stack Dev
+- 📫 How to reach me: Check Below 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Laptop + Good Internet Connection + Tasty Food = Happy Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,17 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanav2202&show_icons=true&locale=en" alt="tanav2202" /></p>
 
 
-<!--
-**tanav2202/tanav2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
