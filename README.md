@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanav2202&show_icons=true&locale=en&theme=radical" alt="tanav2202" /></p>
+
 
 
 
