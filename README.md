@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working to be Full Stack Dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Laptop + Good Internet Connection + Tasty Food = Happy Me
+- ⚡ Fun fact:  Fast Laptop + Good Internet Connection + Tasty Food = Happy Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
