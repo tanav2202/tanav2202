@@ -1,6 +1,6 @@
 
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Tanav Singh Bajaj</h1>
+
+<h1 align="center">Hi, I'm Tanav Singh Bajaj</h1>
 <h3 align="center">Student at IIIT Bhopal with a love for tech</h3>
 
 - 🔭 I’m currently working to be Full Stack Dev
