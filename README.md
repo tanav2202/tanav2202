@@ -18,5 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanav2202/tanav2202/output/github-contribution-grid-snake.gif" alt="snake"></center>
+  <img src="https://github.com/tanav2202/tanav2202/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
