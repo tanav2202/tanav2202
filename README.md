@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi, I'm Tanav Singh Bajaj</h1>
 <h3 align="center">Student at IIIT Bhopal with a love for tech</h3>
 
 - 🔭 I’m currently working to be Full Stack Dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:  Fast Laptop + Good Internet Connection + Tasty Food = Happy Me
+- ⚡ Fun fact: Fast Laptop + Good Internet Connection + Tasty Food = Happy Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,8 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /></p>
 
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/tanav2202/tanav2202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
