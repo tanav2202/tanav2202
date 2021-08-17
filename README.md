@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
-<h2 align="center">I am Tanav a Student at IIIT Bhopal with a love for tech</h2>
+<h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
 
 - 🔭 I’m currently learning everything I can
 - 😄 Pronouns: he/him
