@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Tanav Singh Bajaj</h1>
 <h3 align="center">Student at IIIT Bhopal with a love for tech</h3>
 
-- 🔭 I’m currently learning everything I can 
+- 🔭 I’m currently learning everything I can
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Fast Laptop + Good Internet Connection + Tasty Food = Happy Me
+<p align="center">
+  <img src="./Assets/codinggif.gif" alt="coding gif"></center>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
