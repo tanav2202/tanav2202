@@ -4,7 +4,7 @@
 <h4  align="center" >I’m currently learning everything I can </h4>
 <h4 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h4>
 <p align="center">
-  <img src="./Assets/codinggif.gif" alt="coding gif" width="500" height="500"></center>
+  <img src="./Assets/codinggif.gif" alt="coding gif" width="500" height="300"></center>
 </p>
 
 <h3 align="left">Connect with me:</h3>
