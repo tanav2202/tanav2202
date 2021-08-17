@@ -8,7 +8,7 @@
 <h3  align="center" >I’m currently learning everything I can </h3>
 <h3 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h3>
 <p align="center">
-  <img src="./Assets/codinggif.gif" alt="coding gif" width="500" height="300"></center>
+  <img src="./Assets/codinggif.gif" alt="coding gif" width="600" height="500"></center>
 </p>
 
 <h3 align="center">Connect with me:</h3>
