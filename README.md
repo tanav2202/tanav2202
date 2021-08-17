@@ -1,8 +1,9 @@
+<div>
 <p align="left">
-  <img src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="100" height="100"></center>
+  <img src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="100" height="100">
 </p>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
- 
+<h1 align="right">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
+ </div>
 <h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
 
 <h3  align="center" >I’m currently learning everything I can </h3>
