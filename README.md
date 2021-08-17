@@ -1,5 +1,6 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1> <p align="right">
-  <img src="./Assets/TanavLogoDark.jpeg" alt="coding gif" width="100" height="100"></center>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
+ <p align="right">
+  <img src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="100" height="100"></center>
 </p>
 <h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
 
