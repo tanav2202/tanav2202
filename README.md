@@ -1,8 +1,11 @@
 <div>
-  <img align="left" src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="150" height="150">
+  <img align="left" src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="130" height="130">
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
  </div>
+ <details>
+
+  <summary>About Me </summary>
 <h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
 <details>
 
