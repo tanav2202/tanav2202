@@ -29,7 +29,8 @@
 <p align="center" >
 <img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='350px' alt="tanav2202" />
 </p>
-</details>
+
 <p align="center">
   <img src="https://github.com/tanav2202/tanav2202/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+</details>
