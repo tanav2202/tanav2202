@@ -1,7 +1,7 @@
 <div>
   <img align="left" src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="250" height="250">
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
-   <h3> My Logo </h3>
+   <h3>👈 My Logo </h3>
  </div>
  <details>
 
