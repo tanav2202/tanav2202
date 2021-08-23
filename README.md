@@ -23,7 +23,7 @@
 
 <p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /> </p>
 <p align="right" >
-<img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' alt="tanav2202" />
+<img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' width="100px" alt="tanav2202" />
 </p>
 
 <p align="center">
