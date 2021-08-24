@@ -26,7 +26,7 @@
 </details>
 <details>
 
-  <summary>GitHub Stats</summary>
+  <summary>GitHub Statistics </summary>
   
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /> </p>
 <p align="center" >
