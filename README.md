@@ -7,7 +7,7 @@
 
   <summary>About Me (click) </summary>
 <h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
-<h3  align="center" >I’m currently learning everything I can </h3>
+<h3  align="center" >I’m currently learning ML/AI</h3>
 <h3 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h3>
 <h4 align="center">Find More of my work  <a href="https://github.com/neos-20" target=_blank>HERE</a></h4>
 <p align="center">
