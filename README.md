@@ -1,6 +1,6 @@
 <div>
  <a href="https://tanav2202.github.io/" target=_blank > <img align="left" src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="160" height="160"></a>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜>! </h1>
 <!--    <h3>👈 My Logo </h3> -->
  </div>
 
