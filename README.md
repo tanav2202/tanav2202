@@ -1,11 +1,11 @@
 <div>
- <a href="https://tanav2202.github.io/" target=_blank > <img align="left" src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="250" height="250"></a>
+ <a href="https://tanav2202.github.io/" target=_blank > <img align="left" src="./Assets/TanavLogoDark.jpeg" alt="My Logo" width="160" height="160"></a>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
-   <h3>👈 My Logo </h3>
+<!--    <h3>👈 My Logo </h3> -->
  </div>
 
 
- <h1>About Me  </h1>
+ <h1 align="center" >About Me</h1>
    <h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
 <h3  align="center" >I’m currently learning ML/AI</h3>
 <h3 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h3>
