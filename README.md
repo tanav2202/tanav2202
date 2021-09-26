@@ -4,8 +4,8 @@
 <!--    <h3>👈 My Logo </h3> -->
  </div>
 
-
- <h1 align="center" >About Me</h1>
+<!-- 
+ <h1 align="center" >About Me</h1> -->
    <h2 align="center">I am Tanav , a Student at IIIT Bhopal with a love for tech</h2>
 <h3  align="center" >I’m currently learning ML/AI</h3>
 <h3 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h3>
