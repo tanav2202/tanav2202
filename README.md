@@ -12,7 +12,7 @@
 <h4 align="center">My Kaggle Profile-  <a href="https://www.kaggle.com/tanavbajaj" target=_blank>HERE</a></h4>
  <h2> I use Arch Btw </h2>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/839817664851738665/924115355956297778/unknown.png" alt="my setup" width="600" height="500"></center>
+  <img src="https://cdn.discordapp.com/attachments/839817664851738665/924115355956297778/unknown.png" alt="my setup"></center>
 </p>
 
 <h3 align="center">Connect with me:</h3>
