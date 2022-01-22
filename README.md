@@ -10,7 +10,7 @@
 <h2  align="center" >Welcome to the Github Profile of an ML/AI enthusiast</h2>
 <h3 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h3>
 <h1 align="center">My Kaggle Profile-  <a href="https://www.kaggle.com/tanavbajaj" target=_blank>HERE</a></h1>
- <h2 align="center" > I use Arch Btw </h2>
+ <h2 align="center" > My Laptop looks like this </h2>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/839817664851738665/924115355956297778/unknown.png" alt="my setup"></center>
 </p>
