@@ -17,10 +17,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/tanav2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanav2202" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanav-bajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanav-bajaj" height="30" width="40" /></a>
-<a href="https://instagram.com/tanav_2202_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanav2202" height="30" width="40" /></a>
- <a href="https://www.youtube.com/channel/UCqZrhUq6F3r7sNyYr2knAqQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanav2202" height="30" width="40" /></a>
+<a href="https://twitter.com/tanav2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanav2202" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/tanav-bajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanav-bajaj" height="50" width="60" /></a>
+<a href="https://instagram.com/tanav_2202_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanav2202" height="50" width="60" /></a>
+ <a href="https://www.youtube.com/channel/UCqZrhUq6F3r7sNyYr2knAqQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanav2202" height="50" width="60" /></a>
 </p>
 
 <h3 align="center">My Tech Stack :</h3>
@@ -31,11 +31,13 @@
   <summary>GitHub Statistics (click )</summary>
   
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /> </p>
-<p align="center" >
-<!-- <img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='300px' alt="tanav2202" /> -->
-</p>
 
 <p align="center">
   <img src="https://github.com/tanav2202/tanav2202/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<p align="center" >
+<img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='300px' alt="tanav2202" />
+</p>
+
 </details>
