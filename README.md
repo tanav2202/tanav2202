@@ -9,7 +9,12 @@
 <!--    <h2 align="center">I am Tanav , a Student at IIIT Bhopal & IITM BSc with a love for tech</h2> -->
 <h2  align="center" >Welcome to the Github Profile of an ML/AI enthusiast</h2>
 <h3 align="center"> Fast Laptop + Good Internet Connection + Tasty Food = Happy Me </h3>
-<h1 align="center">My Kaggle Profile-  <a href="https://www.kaggle.com/tanavbajaj" target=_blank>HERE</a></h1>
+  <h2 align="center" >My Work 👇 </h2>
+ <p align="center">
+<a href="https://www.kaggle.com/tanavbajaj" target=_blank><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a>
+ <a href="https://medium.com/@tanav2202" target=_blank><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" height="70" width="70" ></a>
+  <a href="https://dev.to/tanav2202" target=_blank><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a>
+ </p>
 <!--  <h2 align="center" > My Laptop looks like this </h2> -->
 <p align="center">
   <img src="https://cureya.in/internship/wp-content/uploads/2021/03/istockphoto-966248982-612x612-1.jpg" alt="my setup"></center>
