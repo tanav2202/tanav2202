@@ -12,9 +12,17 @@
   <h2 align="center" >My Work 👇 </h2>
  <p align="center">
 <a href="https://www.kaggle.com/tanavbajaj" target=_blank><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a>
- <a href="https://medium.com/@tanav2202" target=_blank><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" height="70" width="70" ></a>
-  <a href="https://dev.to/tanav2202" target=_blank><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a>
+ 
+<!--   <a href="https://dev.to/tanav2202" target=_blank><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a> -->
+ </p> 
+ <p align="center">
+ <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/discussion" />
  </p>
+ 
+ 
 <!--  <h2 align="center" > My Laptop looks like this </h2> -->
 <p align="center">
   <img src="https://cureya.in/internship/wp-content/uploads/2021/03/istockphoto-966248982-612x612-1.jpg" alt="my setup"></center>
@@ -22,6 +30,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+ <a href="https://medium.com/@tanav2202" target=_blank><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" height="70" width="70" ></a>
 <a href="https://twitter.com/tanav2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanav2202" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/tanav-bajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanav-bajaj" height="50" width="60" /></a>
 <a href="https://instagram.com/tanav_2202_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanav2202" height="50" width="60" /></a>
