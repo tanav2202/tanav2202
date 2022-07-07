@@ -17,9 +17,6 @@
  </p> 
  <p align="center">
  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/discussion" />
  </p>
  
  
