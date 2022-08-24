@@ -3,16 +3,15 @@
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜>! </h1> -->
 <!--    <h3>👈 My Logo </h3> -->
  </div>
-
-
- 
-<!--    <h3 align="center">I am Tanav , a Student at IIIT Bhopal with a love for Data Science</h2> -->
-<h1>Welcome to the Github Profile of an ML/AI enthusiast</h1>
-  <p >
-  <h2 >About Me </h2>
- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tanavbajaj" />
-
+<div>
+<h2> Hi There </h2>
+<img src="https://c.tenor.com/mw0Zuc8nL50AAAAC/garfield-waving.gif" height=200 >
+</div>
+ <div>
+ <p>
+ <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tanavbajaj" /> <br>
   <samp>
+  About Me <br>
 👨‍💻 20 yo <br> :coffee: Coffee Lover  <br>💻 Linux User <br> 📊 Data Science Enthusiast <br>
 <!--     :house_with_garden: Based in India 🇮🇳<br> -->
     :school: CS/IT Student from IIIT Bhopal [2024]<br>
@@ -22,9 +21,10 @@
  📓 Kaggle: <a href="https://www.kaggle.com/tanavbajaj">Kaggle Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/tanav2202/">Twitter</a> <br>
    📱 Portfolio :  <a href="https://tanav.tech">tanav.tech</a> <br><br><br>
-    </samp>
-</p>  
-
+<img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card" >
+</samp>
+</p>
+</div>
 <!--  <p align="center">
 <a href="https://www.kaggle.com/tanavbajaj" target=_blank><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a> -->
  
@@ -61,21 +61,23 @@
 <details>
 
   <summary>GitHub Statistics (click )</summary>
-  
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /> </p>
 
-<p align="center">
-  <img src="https://github.com/tanav2202/tanav2202/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanav2202&show_icons=true&locale=en&layout=compact&theme=radical" alt="tanav2202" /> </p>
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanav2202&show_icons=true&locale=en" alt="tanav2202" /></p>? -->
 
 
-<p align="center" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanav2202&theme=dark" height='300px' alt="tanav2202" />
+<p  >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanav2202&theme=dark" height='200px' alt="tanav2202" />
 </p>
 
-<p align="center" >
-<img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='300px' alt="tanav2202" />
+<p  >
+<img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' alt="tanav2202" />
 </p>
 
 </details>
+<img src="https://img.wattpad.com/89cee45faa91f2956d3fe517eb0d518b373bff88/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3037497265316971764c2d7535513d3d2d3338343630323834392e313461623735376131643436633966383830333638363339363833332e676966">
+
+<p>
+  <img src="https://github.com/tanav2202/tanav2202/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
