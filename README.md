@@ -9,37 +9,38 @@
 <!--    <h3 align="center">I am Tanav , a Student at IIIT Bhopal with a love for Data Science</h2> -->
 <h1>Welcome to the Github Profile of an ML/AI enthusiast</h1>
   <p >
-  <h2 >About Me</h2>
-  <h3>  </h3>
+  <h2 >About Me </h2>
+ <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tanavbajaj" />
 
   <samp>
 👨‍💻 20 yo <br> :coffee: Coffee Lover  <br>💻 Linux User <br> 📊 Data Science Enthusiast <br>
-    :house_with_garden: Based in India 🇮🇳<br>
+<!--     :house_with_garden: Based in India 🇮🇳<br> -->
     :school: CS/IT Student from IIIT Bhopal [2024]<br>
     :email:	tanav.bajaj58@gmail.com <br>
-    :pencil: CV: <a href="">View Resume</a> <br>
+    :pencil: CV: <a href="https://drive.google.com/file/d/1u1QwXrAhLfjlPdYw-9Nz81xzPj3_84gE/view?usp=sharing">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/tanav-bajaj/">LinkedIn Profile</a> <br>
+ 📓 Kaggle: <a href="https://www.kaggle.com/tanavbajaj">Kaggle Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/tanav2202/">Twitter</a> <br>
    📱 Portfolio :  <a href="https://tanav.tech">tanav.tech</a> <br><br><br>
     </samp>
 </p>  
 
- <p align="center">
-<a href="https://www.kaggle.com/tanavbajaj" target=_blank><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a>
+<!--  <p align="center">
+<a href="https://www.kaggle.com/tanavbajaj" target=_blank><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a> -->
  
 <!--   <a href="https://dev.to/tanav2202" target=_blank><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a> -->
- </p> 
+<!--  </p> 
  <p align="left">
- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/notebook" />
+ <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/notebook" /> -->
  
  
- 
+<!--  
  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/dataset" />
  
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/competition" />
  
   
- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/discussion" />
+ <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tanavbajaj/discussion" /> -->
  </p>
 <!--  <h2 align="center" > My Laptop looks like this </h2> -->
 
