@@ -20,7 +20,7 @@
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/tanav-bajaj/">LinkedIn Profile</a> <br>
  📓 Kaggle: <a href="https://www.kaggle.com/tanavbajaj">Kaggle Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/tanav2202/">Twitter</a> <br>
-   📱 Portfolio :  <a href="https://tanav.tech">tanav.tech</a> <br><br><br>
+   📱 Portfolio :  <a href="https://tanav.xyz">tanav.xyz</a> <br><br><br>
 <img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card" >
 </samp>
 </p>
