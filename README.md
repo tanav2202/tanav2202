@@ -9,7 +9,7 @@
 </div>
  <div>
  <p>
- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tanavbajaj" /> <br>
+<!--  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tanavbajaj" /> <br> -->
   <samp>
   About Me <br>
 👨‍💻 20 yo <br> :coffee: Coffee Lover  <br>💻 Linux User <br> 📊 Data Science Enthusiast <br>
@@ -72,7 +72,7 @@
 </p>
 
 <p  >
-<img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' alt="tanav2202" />
+<!-- <img  src="https://activity-graph.herokuapp.com/graph?username=tanav2202&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' alt="tanav2202" /> -->
 </p>
 
 </details>
