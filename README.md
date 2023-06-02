@@ -16,7 +16,7 @@
 <!--     :house_with_garden: Based in India 🇮🇳<br> -->
     :school: CS/IT Student from IIIT Bhopal [2024]<br>
     :email:	tanav.bajaj58@gmail.com <br>
-    :pencil: CV: <a href="https://drive.google.com/file/d/1u1QwXrAhLfjlPdYw-9Nz81xzPj3_84gE/view?usp=sharing">View Resume</a> <br>
+    :pencil: CV: <a href="https://github.com/tanav2202/tanav2202.github.io/blob/main/assets/tanav_cv.pdf">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/tanav-bajaj/">LinkedIn Profile</a> <br>
  📓 Kaggle: <a href="https://www.kaggle.com/tanavbajaj">Kaggle Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/tanav2202/">Twitter</a> <br>
