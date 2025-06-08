@@ -12,11 +12,12 @@
 <!--  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tanavbajaj" /> <br> -->
   <samp>
   About Me <br>
-👨‍💻 20 yo <br> :coffee: Coffee Lover  <br>💻 Linux User <br> 📊 Data Science Enthusiast <br>
+👨‍💻 23 yo <br> :coffee: Data Scientist at Slice <br>
 <!--     :house_with_garden: Based in India 🇮🇳<br> -->
-    :school: CS/IT Student from IIIT Bhopal [2024]<br>
+    :school: MDS UBC '25-26 <br>
+    :school: IIIT Bpl '20-24 <br>
     :email:	tanav.bajaj58@gmail.com <br>
-    :pencil: CV: <a href="https://github.com/tanav2202/tanav2202.github.io/blob/main/assets/tanav_cv.pdf">View Resume</a> <br>
+<!--     :pencil: CV: <a href="https://github.com/tanav2202/tanav2202.github.io/blob/main/assets/tanav_cv.pdf">View Resume</a> <br> -->
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/tanav-bajaj/">LinkedIn Profile</a> <br>
  📓 Kaggle: <a href="https://www.kaggle.com/tanavbajaj">Kaggle Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/tanav2202/">Twitter</a> <br>
